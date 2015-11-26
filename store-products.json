@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Canada Caps",
+    "description": "Oh look a canadian Cap. It has the maple leaf on it. Nice huh!",
+    "shine": 8,
+    "price": 19.99,
+    "rarity": 7,
+    "color": "Red",
+    "faces": 14,
+    "images": [
+      "http://www.karscot.com/images/canada-cap.gif",
+      "http://mlm-d2-p.mlstatic.com/12061-MLM20053669329_022014-O.jpg",
+      "http://ecx.images-amazon.com/images/I/41czhysgMvL._SX342_.jpg"
+    ],
+    "reviews": [{
+        "stars": 1,
+        "body": "This gem is WAY too expensive for its rarity value.",
+        "author": "turtleguyy@example.org",
+        "createdOn": 1397490980837
+      }, {
+        "stars": 1,
+        "body": "BBW: High Shine != High Quality.",
+        "author": "LouisW407@example.org",
+        "createdOn": 1397490980837
+      }, {
+        "stars": 1,
+        "body": "Don't waste your rubles!",
+        "author": "nat@example.org",
+        "createdOn": 1397490980837
+      }]
+  },
+  {
+    "name": "USA Caps",
+    "description": "Look at that American hats. get'em now or leave :p",
+    "shine": 9,
+    "price": 22.99,
+    "rarity": 6,
+    "color": "Blue",
+    "faces": 12,
+    "images": [
+      "http://ecx.images-amazon.com/images/I/41TyOd7iW%2BL._SX342_.jpg",
+      "http://fashion-bag.com/image/cache/data/USA_Flag_Theme/ht-7642cx-500x500.jpg",
+      "http://www.cscpromo.com/hats/images/usa-hat-large.jpg"
+    ],
+    "reviews": [{
+        "stars": 3,
+        "body": "I think this gem was just OK, could honestly use more shine, IMO.",
+        "author": "JimmyDean@example.org",
+        "createdOn": 1397490980837
+      }, {
+        "stars": 4,
+        "body": "Any gem with 12 faces is for me!",
+        "author": "gemsRock@example.org",
+        "createdOn": 1397490980837
+      }]
+  },
+  {
+    "name": "England Caps",
+    "description": "English Caps!!. what more of a reason do you want to buy them, they're English!!!",
+    "shine": 70,
+    "price": 29.99,
+    "rarity": 2,
+    "color": "Red",
+    "faces": 6,
+    "images": [
+      "http://www.drcap.co.uk/Portals/0/Skins/drcap/images/New_Era_59fifty_cap_images/Large/England-Football-New-Era-Cap-Red-White-Blue.jpg",
+      "http://cdn.vanillaforums.com/charltonlife.vanillaforums.com/FileUpload/d8/d5b8ab8e09f6a7142ebf895e0c8c8b.jpg",
+      "http://monster-sports.com/wp-content/uploads/2014/03/p-78999-England_F.A._Cap_Red__73518.jpg"
+    ],
+    "reviews": [{
+        "stars": 5,
+        "body": "I love this gem!",
+        "author": "joe@example.org",
+        "createdOn": 1397490980837
+      }, {
+        "stars": 1,
+        "body": "This gem sucks.",
+        "author": "tim@example.org",
+        "createdOn": 1397490980837
+      }]
+  }
+]
