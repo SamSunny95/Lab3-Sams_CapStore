@@ -4,7 +4,7 @@
  	app.controller('StoreController', ['$http',function($http){
     var store = this;
     store.products = [];
-    $http.get('store-products.json').success(function(data){
+    $http.get('https://raw.githubusercontent.com/SamSunny95/Lab3-Sams_CapStore/63b154948c2c92027733be0fa964e873ac6208e5/store-products.json').success(function(data){
       store.products = data;
     });
   }]);
